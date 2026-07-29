@@ -1,0 +1,11 @@
+{
+    "logo":".header_interactive_button_logo",
+    "button_pokemons":".header_interactive_button_link_to_pokemons > .interactive_button",
+    "button_trainers":".header_interactive_button_link_to_trainers > .interactive_button",
+    "button_rating":".header_interactive_button_link_to_rating > .interactive_button",
+    "back_button":"header_interactive_button_exit .",
+    "header_trainer":".header_card_trainer",
+    "title":".style_1_heading_38_400_pokemon_classic",
+    "filter_wind":".filter_type_sort_select",
+    "pokemons_List":".pokemon_list"
+}

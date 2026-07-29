@@ -1,0 +1,18 @@
+{   
+    "logo":".header_interactive_button_logo",
+    "button_pokemons":".header_interactive_button_link_to_pokemons > .interactive_button",
+    "button_trainers":".header_interactive_button_link_to_trainers > .interactive_button",
+    "button_rating":".header_interactive_button_link_to_rating > .interactive_button",
+    "back_button":".top_back_button",
+    "header_trainer":".header_card_trainer",
+    "button_exit":".header_interactive_button_exit",
+    "chempion_text":".single_page_body_content_title_text > span",
+    "premium_text":".single_page_body_content_title_text > .header_mobile_list_one_link_profile_premium_text",
+    "trainer_name":".single_page_body_content_title_icons_name",
+    "avatar_img":".single_page_body_avatar_img",
+    "trainer_attr":".single_page_body_content_inner_top_list_attr",
+    "change_avatar":".k_mobile.3",
+    "healthcheck":".status_url > img",
+    "version":".status_url > img"
+  
+}

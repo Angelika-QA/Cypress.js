@@ -1,0 +1,10 @@
+{
+    "title":".style_1_popup_white_title",
+    "login":"#k_email",
+    "password":"#k_password",
+    "input_button":".MuiButton-root",
+    "metod_aut":".auth_content_text",
+    "aut_socials":".auth_content_socials",
+    "restore_aut":".style_1_popup_white_link_left",
+    "sin_up":".style_fix_1"
+}
